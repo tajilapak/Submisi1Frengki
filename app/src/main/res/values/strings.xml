@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Submisi1Frengki</string>
+
+    <string-array name="club_name">
+        <item>Liverpool</item>
+        <item>Juventus</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Atletico Madrid</item>
+        <item>PSV Eindhoven</item>
+        <item>AC Milan FC</item>
+        <item>Porto FC</item>
+    </string-array>
+
+    <string-array name="club_info">
+        <item>Asal : Inggris </item>
+        <item>Asal : Italia </item>
+        <item>Asal : Jerman</item>
+        <item>Asal : Inggris</item>
+        <item>Asal : Spanyol</item>
+        <item>Asal : Belanda</item>
+        <item>Asal : Italia</item>
+        <item>Asal : IPortugal</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/liver</item>
+        <item>@drawable/juve</item>
+        <item>@drawable/bayern</item>
+        <item>@drawable/city</item>
+        <item>@drawable/atm</item>
+        <item>@drawable/psv</item>
+        <item>@drawable/acm</item>
+        <item>@drawable/porto</item>
+    </array>
+
+    <string-array name="club_since">
+        <item>berdiri tahun : 1892</item>
+        <item>berdiri tahun : 1897</item>
+        <item>berdiri tahun : 1900</item>
+        <item>berdiri tahun : 1880</item>
+        <item>berdiri tahun : 1910</item>
+        <item>berdiri tahun : 1913</item>
+        <item>berdiri tahun : 1899</item>
+        <item>berdiri tahun : 1893</item>
+    </string-array>
+    <string-array name="stadion">
+        <item>Stadion : Anfield</item>
+        <item>Stadion : Juventus Arena </item>
+        <item>Stadion : Allianz</item>
+        <item>Stadion : Etihad Stadium</item>
+        <item>Stadion : Wanda Metropolitan</item>
+        <item>Stadion : philips Arena </item>
+        <item>Stadion : San Siro</item>
+        <item>Stadion : O Dragao</item>
+
+    </string-array>
+    <string-array name="pelatih">
+        <item>Pelatih : Jurgen Klopp</item>
+        <item>Pelatih : Massimiliano Alegri</item>
+        <item>Pelatih : Nico Kovac</item>
+        <item>Pelatih : Joseph Guardiola</item>
+        <item>Pelatih : Diego Simeone</item>
+        <item>Pelatih : Gennaro Gatuso</item>
+        <item>Pelatih : Mark Van Bommel</item>
+        <item>Pelatih : Sergio Concecao</item>
+
+    </string-array>
+</resources>
